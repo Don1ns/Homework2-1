@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //Задача 1.
+        System.out.println("Задача 1");
         var dog = 8;
         System.out.println(dog);
         var cat = 3.6;
@@ -8,6 +9,7 @@ public class Main {
         var paper = 763789;
         System.out.println(paper);
         //Задача 2.
+        System.out.println("Задача 2");
         dog += 4;
         System.out.println(dog);
         cat += 4;
@@ -15,6 +17,7 @@ public class Main {
         paper += 4;
         System.out.println(paper);
         //Задача 3.
+        System.out.println("Задача 3");
         dog -= 3.5;
         System.out.println(dog);
         cat -= 1.6;
